@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\ANALISIS Y DISE\u00D1O DE SISTEMAS\\Calzado1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F38D6825-6F8C-4841-BAA7-B9705A1C1B9B}|Calzado1\\Calzado1.vcxproj|C:\\Users\\hp\\Desktop\\ANALISIS Y DISE\u00D1O DE SISTEMAS\\Calzado1\\Calzado1\\Calzado1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F38D6825-6F8C-4841-BAA7-B9705A1C1B9B}|Calzado1\\Calzado1.vcxproj|solutionrelative:Calzado1\\Calzado1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Desktop\\Calzado\\calzado\\Calzado.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Desktop\\Calzado\\calzado\\ManejadorCalzado.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManejadorCalzado.h",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Calzado\\calzado\\ManejadorCalzado.h",
+              "RelativeDocumentMoniker": "..\\..\\Calzado\\calzado\\ManejadorCalzado.h",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Calzado\\calzado\\ManejadorCalzado.h",
+              "RelativeToolTip": "..\\..\\Calzado\\calzado\\ManejadorCalzado.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-03T12:27:57.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calzado.h",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Calzado\\calzado\\Calzado.h",
+              "RelativeDocumentMoniker": "..\\..\\Calzado\\calzado\\Calzado.h",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Calzado\\calzado\\Calzado.h",
+              "RelativeToolTip": "..\\..\\Calzado\\calzado\\Calzado.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-03T12:27:35.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calzado1.cpp",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\ANALISIS Y DISE\u00D1O DE SISTEMAS\\Calzado1\\Calzado1\\Calzado1.cpp",
+              "RelativeDocumentMoniker": "Calzado1\\Calzado1.cpp",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\ANALISIS Y DISE\u00D1O DE SISTEMAS\\Calzado1\\Calzado1\\Calzado1.cpp",
+              "RelativeToolTip": "Calzado1\\Calzado1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-03T12:24:44.441Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
